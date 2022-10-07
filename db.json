@@ -1,0 +1,9 @@
+{
+  "books": [
+    
+      {"id": 1, "title": "Book 1", "value": "Auto ajuda", "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ5TvcogAgbD0979fcBeFA-7vgakcAScOvd-7KNk_NrMOnz_5MZiqmU1A5pREopRaiWamWokEGO7vrGWwgrOQ_H0XXSS-OFB1Csx7eCYgJ7&usqp=CAE"},
+      {"id": 2, "title": "Book 2", "value": "Clássico", "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsuBSMjoSr-yh21n6vT0kuKY2lakg4KvGaz8nPXyCdumw4ll3ulCA5uJncZJvkxZ6b1wtPqGoi-dim17xYj40mxN_71YLlqmIz4dBjVgESZIM0zR0tck9spg&usqp=CAE"},
+      {"id": 3, "title": "Book 3", "value": "Filosofia", "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0B8FGam_eB_fwmVTj4frFfIkAvPS4fk1UJFi_Q3gXf8bVepLxSHvnKPf6CmE-beFblp4Q2aFUiZTcf0IDRjb5l90X6FY9xjB-xoeRCDFgH58uGffSHn9B1Q&usqp=CAE"},
+      {"id": 4, "title": "Book 4", "value": "Romance", "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFteU2ip8AMkJLjHJYGKdLjxVDJEqvs9K6X23Pc8b_j-wju4cqaLSBg17BKHLP9oDLyZNEZgr8LBbnzD2v2K_JyT0OLWUmcCHEak-QZQMW4iUQfur59A-2Uw&usqp=CAE"}
+     ]
+}
